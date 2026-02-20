@@ -7,7 +7,7 @@ public class methods {
         System.out.println("area of the square"+ a*a);
     }
     public static int rectangle(){
-        System.out.println("the are of rectangle is :  ");
+        System.out.println("the are of rect is :  ");
         return a*b;
     }
     public static float circle(int b){
