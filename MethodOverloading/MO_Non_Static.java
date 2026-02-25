@@ -1,3 +1,4 @@
+package MethodOverloading;
 public class MO_Non_Static {
 //  method overloading in the static methods 
     public void whatsapp(){

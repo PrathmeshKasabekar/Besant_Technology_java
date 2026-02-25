@@ -1,3 +1,4 @@
+package Constant;
 public class Cons_pass {
     String StudentName;
     public Cons_pass(String StudentName){

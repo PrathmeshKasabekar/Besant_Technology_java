@@ -1,3 +1,4 @@
+package MethodOverloading;
 public class MO_Main {
     // main method overloading
     public static void main(int num) {

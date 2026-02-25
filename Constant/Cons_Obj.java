@@ -1,8 +1,9 @@
+package Constant;
 // Write a program to intialize object data
-public class Cons_ObjGlo {
+public class Cons_Obj {
     String StudentName;
-    Cons_ObjGlo(String StudentName){
-        this.StudentName=StudentName;
+    Cons_Obj(String name){
+        StudentName=name;
         System.out.println();
     }
     public static void main(String[] args) {
@@ -10,4 +11,3 @@ public class Cons_ObjGlo {
         System.out.println(ref.StudentName);
     }
     }
-

@@ -1,3 +1,4 @@
+package Constant;
 public class Cons {
     public Cons(){
         // return type and it is alwasy non static
