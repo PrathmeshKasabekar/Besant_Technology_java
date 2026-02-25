@@ -1,4 +1,4 @@
-public class Main_MO {
+public class MO_Main {
     // main method overloading
     public static void main(int num) {
         System.out.println("name is " + num);

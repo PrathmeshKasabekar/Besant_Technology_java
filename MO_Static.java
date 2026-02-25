@@ -1,4 +1,4 @@
-public class Static_MO{
+public class MO_Static{
 //  method overloading in the static methods 
     public static void whatsapp(){
         System.out.println("simple chats feature");

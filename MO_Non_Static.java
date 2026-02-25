@@ -1,4 +1,4 @@
-public class Non_Static_MO {
+public class MO_Non_Static {
 //  method overloading in the static methods 
     public void whatsapp(){
         System.out.println("simple chats feature");
@@ -17,7 +17,7 @@ public class Non_Static_MO {
     }
 
     public static void main(String[] args) {
-        Static_MO ref = new Static_MO();
+        MO_Static ref = new MO_Static();
         ref.whatsapp();
         ref.whatsapp(1);
         ref.whatsapp("calls");
