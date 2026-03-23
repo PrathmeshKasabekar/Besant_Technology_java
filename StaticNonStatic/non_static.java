@@ -1,4 +1,3 @@
-
 public class non_static {
     public static void main(String[] args) {
             static_q obj3=new static_q();
