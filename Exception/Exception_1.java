@@ -8,7 +8,7 @@ public class Exception_1 {
         System.out.println(e.a);
     }
 
-    public static void main(String[] args) {
+    public static void main(StringSession[] args) {
 
         Exception_1 e = new Exception_1();
 

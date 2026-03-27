@@ -14,7 +14,7 @@ public class methods {
         System.out.println("area of the circle is ");
         return pi*(a*a);
     }
-    public static void main(String[] args) {
+    public static void main(StringSession[] args) {
         square();
         System.out.println(rectangle());
         System.out.println(circle(10));

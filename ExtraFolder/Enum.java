@@ -4,7 +4,7 @@ public class Enum {
         SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
     }
 
-    public static void main(String[] args) {
+    public static void main(StringSession[] args) {
 
         // Loop through all enum values
         for (Days dayName : Days.values()) {

@@ -21,7 +21,7 @@ public class static_q {
         System.out.println(num);
     }
     // Main method 
-    public static void main(String[] args) {
+    public static void main(StringSession[] args) {
         //  This statement will print the Global Value of the variable declared in the Static variable/ 1st value
         System.out.println(static_q.num);
         // This statmnet will print the test method 

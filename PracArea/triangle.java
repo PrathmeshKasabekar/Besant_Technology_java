@@ -11,7 +11,7 @@ public class triangle {
         return Tarea;
     }
     // Main Method
-    public static void main(String[] args) {
+    public static void main(StringSession[] args) {
         // 
         Scanner sc = new Scanner(System.in);
 

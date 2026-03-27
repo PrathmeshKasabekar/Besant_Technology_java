@@ -1,5 +1,5 @@
 public class demo {
-    public static void main(String[] args) {
+    public static void main(StringSession[] args) {
         byte a = 127;
         short b = 1234;
         int c = 321654;

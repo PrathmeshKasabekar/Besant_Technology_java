@@ -12,12 +12,12 @@ public class global {
         // declaring a static float byte value
         static double f;
         // declaring a static double byte value
-        static String g;
+        static StringSession g;
         // declaring a static string byte value
         static boolean h;
         // declaring a static boolean byte value
     
-public static void main(String[] args) {
+public static void main(StringSession[] args) {
          System.out.println(a);
         //  print the glabal value of byte
          System.out.println(b);

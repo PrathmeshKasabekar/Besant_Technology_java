@@ -5,7 +5,7 @@ public class ParkingSystem {
     static int exit = 0;
     static int totalAvailableSpace = 50;
 
-    public static void main(String[] args) {
+    public static void main(StringSession[] args) {
 
         // Thread for Entry
         Thread entryThread = new Thread(() -> {
