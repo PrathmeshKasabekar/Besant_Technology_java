@@ -1,3 +1,5 @@
+import StringSession.StringSession;
+
 public class global {
         static byte a ;
         // declaring a static byte byte value

@@ -1,3 +1,5 @@
+import StringSession.StringSession;
+
 public class demo {
     public static void main(StringSession[] args) {
         byte a = 127;

@@ -1,6 +1,8 @@
 // Importing the Scanner Class for taking input 
 import java.util.Scanner;
 
+import StringSession.StringSession;
+
 public class houseprice{
     // Using the parameterized method and intializing the variables
     public static int value(int profit, int cost){

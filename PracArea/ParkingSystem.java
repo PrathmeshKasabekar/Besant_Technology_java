@@ -1,3 +1,5 @@
+import StringSession.StringSession;
+
 public class ParkingSystem {
 
     // Global variables

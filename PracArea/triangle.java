@@ -1,6 +1,8 @@
 // Importing the Scanner Class for taking input 
 import java.util.Scanner;
 
+import StringSession.StringSession;
+
 public class triangle {
     
     // Using the parameterized method and intializing the variables

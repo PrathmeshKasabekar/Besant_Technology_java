@@ -1,3 +1,5 @@
+import StringSession.StringSession;
+
 public class methods {
     static int a = 10;
     static int b = 20;

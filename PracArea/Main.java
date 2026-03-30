@@ -37,7 +37,7 @@ class EntryThread extends Thread {
     public void run() {
         while (true) {
             try {
-                Thread.sleep(1   000); // 5 seconds
+                Thread.sleep(5000); // 5 seconds
             } catch (Exception e) {}
 
             // random decision to enter

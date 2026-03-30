@@ -1,4 +1,7 @@
 //  to call static value you dont need to create a object
+
+import StringSession.StringSession;
+
 public class static_q {
     // Declaring the Static Variable
     static int num = 10;

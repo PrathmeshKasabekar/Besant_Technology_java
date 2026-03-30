@@ -1,3 +1,5 @@
+import StringSession.StringSession;
+
 public class non_static {
     public static void main(StringSession[] args) {
             static_q obj3=new static_q();

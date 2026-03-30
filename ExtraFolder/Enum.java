@@ -1,10 +1,11 @@
+package ExtraFolder;
 public class Enum {
 
     enum Days {
         SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
     }
 
-    public static void main(StringSession[] args) {
+    public static void main(String[] args) {
 
         // Loop through all enum values
         for (Days dayName : Days.values()) {

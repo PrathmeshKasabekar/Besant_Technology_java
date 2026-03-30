@@ -1,3 +1,4 @@
+package Exception;
 public class Exception_1 {
 
     // Instance variable
@@ -8,7 +9,7 @@ public class Exception_1 {
         System.out.println(e.a);
     }
 
-    public static void main(StringSession[] args) {
+    public static void main(String[] args) {
 
         Exception_1 e = new Exception_1();
 
